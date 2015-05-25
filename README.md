@@ -1,5 +1,5 @@
 # grails3-reactor
-Sample application showing how to use the new Events api in grails with Reactor
+Sample application showing how to use the new Events api in grails with Reactor. This could be termed as a reproduction in grails of the sample code at spring https://spring.io/guides/gs/messaging-reactor/
 
 ## Getting started
 Currently the application gets random quotes from http://www.iheartquotes.com/api , about 20 quotes and displays them in the console.
