@@ -18,3 +18,7 @@ Or you can just type:
  gradle.bat run
  ```
  for windows
+
+## To Do
+1. Integrate with spring-websocket to show update in web view
+2. Implement web view to start event and show results on webpage
